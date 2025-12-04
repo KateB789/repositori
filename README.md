@@ -1,0 +1,2 @@
+# repositori
+для лабы
